@@ -84,9 +84,9 @@ int main()
      else if (second > first)
       { return first + rand() % (second-first+1);
       }
-     else
-      { return rand();
-      }
+     //else
+      //{ return rand();
+      //}
    }
 
    //once created, display the scoreboard
